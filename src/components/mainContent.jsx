@@ -145,19 +145,31 @@ export default function MainContent() {
         justifyContent={"space-between"}
         style={{ marginTop: "50px" }}
       >
-        <Prayer img="public/images/Fajr.jpeg" name="Fajr" time={timings.Fajr} />
         <Prayer
-          img="public/images/Dhuhr.jpeg"
+          img="/images/Fajr.jpeg"
+          name="Fajr"
+          time={timings.Fajr}
+        />
+        <Prayer
+          img='/images/Dhuhr.jpeg'
           name="Dohr"
           time={timings.Dhuhr}
         />
-        <Prayer img="public/images/Asr.jpeg" name="Asr" time={timings.Asr} />
         <Prayer
-          img="public/images/Maghrib.jpeg"
+          img="/images/Asr.jpeg"
+          name="Asr"
+          time={timings.Asr}
+        />
+        <Prayer
+          img="/images/Maghrib.jpeg"
           name="Maghrib"
           time={timings.Maghrib}
         />
-        <Prayer img="public/images/Isha.jpeg" name="Isha" time={timings.Isha} />
+        <Prayer
+          img="/images/Isha.jpeg"
+          name="Isha"
+          time={timings.Isha}
+        />
       </Stack>
 
       <Stack
