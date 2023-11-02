@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # prayer-times-in-morocco
-a web site to display timings of prayers in morocco [](https://majestic-clafoutis-e9d8ac.netlify.app)
+a web site to display timings of prayers in morocco [Link to the website](https://majestic-clafoutis-e9d8ac.netlify.app)
 >>>>>>> e34626f3b5b665120cf143d1cc3c26ea23aa01fe
